@@ -1,0 +1,12 @@
+C:\Users\m_sch\source\repos\Matthew Schaefer Game Of Life\Class1_Intro\obj\Debug\GOL.csproj.AssemblyReference.cache
+C:\Users\m_sch\source\repos\Matthew Schaefer Game Of Life\Class1_Intro\bin\Debug\Class1_Intro.exe.config
+C:\Users\m_sch\source\repos\Matthew Schaefer Game Of Life\Class1_Intro\bin\Debug\Class1_Intro.exe
+C:\Users\m_sch\source\repos\Matthew Schaefer Game Of Life\Class1_Intro\bin\Debug\Class1_Intro.pdb
+C:\Users\m_sch\source\repos\Matthew Schaefer Game Of Life\Class1_Intro\obj\Debug\Class1_Intro.Form1.resources
+C:\Users\m_sch\source\repos\Matthew Schaefer Game Of Life\Class1_Intro\obj\Debug\Class1_Intro.GetSeedForRand.resources
+C:\Users\m_sch\source\repos\Matthew Schaefer Game Of Life\Class1_Intro\obj\Debug\Class1_Intro.Properties.Resources.resources
+C:\Users\m_sch\source\repos\Matthew Schaefer Game Of Life\Class1_Intro\obj\Debug\Class1_Intro.Settings.resources
+C:\Users\m_sch\source\repos\Matthew Schaefer Game Of Life\Class1_Intro\obj\Debug\GOL.csproj.GenerateResource.cache
+C:\Users\m_sch\source\repos\Matthew Schaefer Game Of Life\Class1_Intro\obj\Debug\GOL.csproj.CoreCompileInputs.cache
+C:\Users\m_sch\source\repos\Matthew Schaefer Game Of Life\Class1_Intro\obj\Debug\Class1_Intro.exe
+C:\Users\m_sch\source\repos\Matthew Schaefer Game Of Life\Class1_Intro\obj\Debug\Class1_Intro.pdb
